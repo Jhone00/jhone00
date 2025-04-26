@@ -1,5 +1,6 @@
 ## Olá, meu nome é Jhone da silva
 
+🌱 Atualmente estou aprendendo Javascript
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=0e76A8)](https://www.linkedin.com/in/jhone-da-silva-souza-35391b222/)
